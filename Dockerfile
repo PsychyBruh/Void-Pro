@@ -16,6 +16,6 @@ COPY . .
 # Removed this line:
 # RUN npm run build
 
-EXPOSE 8080
+EXPOSE 7070
 
 CMD ["npm", "start"]
